@@ -1,3 +1,5 @@
+// Importing a custom hook made by the React Redux team
+
 import classes from './Counter.module.css';
 
 const Counter = () => {
